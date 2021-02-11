@@ -1,2 +1,4 @@
 <?php
-echo "My GIT Project";
+echo "My GIT Project is ready";
+
+
