@@ -5,5 +5,5 @@ $user = "Karademy";
 if($user) {
     echo "hello $user";
 } else {
-  echo "hello";
+  echo "Hi Karademy";
 }
